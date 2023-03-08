@@ -1,0 +1,35 @@
+.principalDiv{
+    border-style: solid;
+    border-color: rgb(189, 183, 183);
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+.formDiv{
+    background-color: rgb(189, 183, 183);;
+    padding:20px;
+    border-radius: 10px;
+}
+input{
+    align-items: center;
+    width: 80%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    color: rgb(28, 27, 27);
+}
+.buttonSubmit{
+    width: 100px;
+    background-color: rgb(62, 62, 196);
+    color: white;
+}
+.buttonSubmit:hover{
+    background-color: rgb(24, 24, 143);
+    color: white;
+}
+
+.error{
+    color: red;
+    font-size: 20px;
+}
